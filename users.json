@@ -1,0 +1,18 @@
+[
+  
+  {
+    "id": 1,
+    "username": "aditya",
+    "password": "$2b$10$47OujQxQD9bbveK5At7xcu8XRk3VjIoTjacFJe.UV.bFfC9G0cX4e"
+  },
+  {
+    "id": 2,
+    "username": "aditya7",
+    "password": "$2b$10$k0.gSnyjU8w8hi6umuSCmuH86aExwLv.csh1HflvfdZmA9y0rkUMi"
+  },
+  {
+    "id": 3,
+    "username": "aditya345",
+    "password": "$2b$10$eqKCnJt4v7N3crxd3C60DeEFKMsWNn2kdavzd5ecYY/MrNiVB7Fty"
+  }
+]

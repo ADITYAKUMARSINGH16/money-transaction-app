@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "amount": 99,
+    "date": "2025-04-02T08:58:45.038Z"
+  },
+  {
+    "id": 2,
+    "amount": 100,
+    "date": "2025-04-02T09:08:24.515Z"
+  },
+  {
+    "id": 3,
+    "amount": 99,
+    "recipient": "ssd food",
+    "category": "Other",
+    "date": "2025-04-02T09:33:59.579Z"
+  },
+  {
+    "id": 4,
+    "amount": 99,
+    "recipient": "ssd food",
+    "category": "Other",
+    "date": "2025-04-02T09:53:21.345Z"
+  },
+  {
+    "id": 5,
+    "userId": 4,
+    "amount": 99,
+    "recipient": "ssd food",
+    "category": "Other",
+    "date": "2025-04-02T10:23:04.974Z"
+  },
+  {
+    "id": 6,
+    "userId": 4,
+    "amount": 78,
+    "recipient": "ssd food",
+    "category": "Other",
+    "date": "2025-04-02T12:05:15.135Z"
+  },
+  {
+    "id": 7,
+    "userId": 6,
+    "amount": 88,
+    "recipient": "ssd food",
+    "category": "Other",
+    "date": "2025-04-02T12:08:59.588Z"
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "amount": 88,
+    "recipient": "ssd food",
+    "category": "Foods",
+    "date": "2025-04-02T12:11:39.245Z"
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "amount": 99,
+    "recipient": "ssd food",
+    "category": "Foods",
+    "date": "2025-04-02T12:34:44.437Z"
+  },
+  {
+    "id": 10,
+    "userId": 1,
+    "amount": 99,
+    "recipient": "ssd food",
+    "category": "Foods",
+    "date": "2025-04-02T16:21:20.146Z"
+  }
+]
